@@ -1,0 +1,44 @@
+[
+    {
+        "nombres": "Sergio",
+        "apellidos": "Espinoza Forigua",
+        "Fecha de nacimiento": "2001-09-26",
+        "Profesion": "Estudiante",
+        "Estudios": {
+            "Primaria": "Institución Educativa La Florida",
+            "Secundaria": "Institución Educativa La Florida",
+            "Universidad": "Universidad Nacional Abierta y a Distancia",
+            "Grados": true,
+            "fecha_Grados": "2023-11-30",
+            "programa": "Ingeniería de Sistemas"
+        }
+    },
+    {
+        "nombres": "Jacobo",
+        "apellidos": "Alzate Corredor",
+        "Fecha de nacimiento": "2004-06-18",
+        "Profesion": "Estudiante",
+        "Estudios": {
+            "Primaria": "Colegio san jose",
+            "Secundaria": "colegio san jose",
+            "Universidad": "Universidad Nacional",
+            "Grados": false,
+            "fecha_Grados": "2025-06-30",
+            "programa": "Ingeniería civil"
+        }
+    },
+    {
+        "nombres": "Camilo",
+        "apellidos": "Espinoza Forigua",
+        "Fecha de nacimiento": "2001-12-26",
+        "Profesion": "Estudiante",
+        "Estudios": {
+            "Primaria": "Colegio santa maria",
+            "Secundaria": "colegio santa maria",
+            "Universidad": "Universidad Nacional",
+            "Grados": false,
+            "fecha_Grados": "2025-10-25",
+            "programa": "Antropología"
+        }
+    }
+]
