@@ -1,0 +1,17 @@
+[
+    {
+        "nombre":"Ana",
+        "Fecha_nacimiento":"1995-05-15",
+        "Profesion":"Ingeniera"
+    },
+    {
+        "nombre":"Juan",
+        "Fecha_nacimiento":"2000-03-30",
+        "Profesion":"Abogado"
+    },
+    {
+        "nombre":"Daniel",
+        "Fecha_nacimiento":"1991-07-02",
+        "Profesion":"Biologo"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "grupo1": [
+        {"nombres": "Ana", "Edad": 28, "Ciudad": "Bogotá"},
+        {"nombres": "Luis", "Edad": 34, "Ciudad": "Medellín"},
+        {"nombres": "Marta", "Edad": 22, "Ciudad": "Cali"}
+    ],
+    "grupo2": [
+        {"nombres": "Carlos", "Edad": 30, "Ciudad": "Barranquilla"},
+        {"nombres": "Sofía", "Edad": 27, "Ciudad": "Cartagena"},
+        {"nombres": "Diego", "Edad": 25, "Ciudad": "Bucaramanga"}
+    ]
+}
