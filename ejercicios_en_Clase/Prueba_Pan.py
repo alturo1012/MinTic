@@ -26,8 +26,6 @@ for i in serie:
 
 print(serie2)
 
-import pandas as pa 
-
 serie = pa.Series([100, 200, 300, 400, 500], index = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes"])
 
 print(serie["Miercoles"])
