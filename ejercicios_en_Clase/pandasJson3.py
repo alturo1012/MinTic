@@ -11,3 +11,4 @@ df_filtrado = df[df['Fecha_nacimiento'].between('2000-01-01', '2000-12-31')]
 print("Contenido del DataFrame filtrado:")
 print(df_filtrado)  
 
+

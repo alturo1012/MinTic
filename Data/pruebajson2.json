@@ -1,12 +1,12 @@
 {
     "grupo1": [
-        {"nombres": "Ana", "Edad": 28, "Ciudad": "Bogotá"},
-        {"nombres": "Luis", "Edad": 34, "Ciudad": "Medellín"},
-        {"nombres": "Marta", "Edad": 22, "Ciudad": "Cali"}
+        {"Id":1 ,"nombres": "Ana", "Edad": 28, "Ciudad": "Bogotá"},
+        {"Id":2 ,"nombres": "Luis", "Edad": 34, "Ciudad": "Medellín"},
+        {"Id":3 ,"nombres": "Marta", "Edad": 22, "Ciudad": "Cali"}
     ],
     "grupo2": [
-        {"nombres": "Carlos", "Edad": 30, "Ciudad": "Barranquilla"},
-        {"nombres": "Sofía", "Edad": 27, "Ciudad": "Cartagena"},
-        {"nombres": "Diego", "Edad": 25, "Ciudad": "Bucaramanga"}
+        {"Id":1 ,"nombres": "Carlos", "Edad": 30, "Ciudad": "Barranquilla"},
+        {"Id":2 ,"nombres": "Sofía", "Edad": 27, "Ciudad": "Cartagena"},
+        {"Id":3 ,"nombres": "Diego", "Edad": 25, "Ciudad": "Bucaramanga"}
     ]
 }

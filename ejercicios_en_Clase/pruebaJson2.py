@@ -18,3 +18,6 @@ print(df2)
 df_final = pd.concat([df1, df2], axis=0, ignore_index=True)
 print("dataframe final")
 print(df_final) 
+
+print(df_final.duplicated) #contar duplicados
+print(df_final.duplicated(subset=['Id'])) #ver cuales son los duplicados en la columna ID
